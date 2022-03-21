@@ -1,0 +1,65 @@
+body{
+    background-color: azure;
+}
+
+.titulo1{
+    font-size: 200%;
+    color: blue;
+    text-align: left;
+}
+
+.titulo2{
+    font-size: 350%;
+    color: darkblue;
+    text-align: justify;
+}
+
+.buttons{
+    text-align: right;
+}
+
+.buttons{
+    border: none;
+    color:azure;
+}
+
+.column{
+    font-size: 100%;
+    column-count: 2;
+    column-width: 50%;
+    column-gap: 150px;
+    column-fill: balance;
+}
+
+.text1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(23, 45, 85);
+    text-align: justify;
+    font-size: large;
+}
+
+.minicolumn{
+    text-align: center;
+    column-count: 2;
+}
+
+.column2{
+    column-count: 4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    column-width: 50%;
+}
+
+footer{
+    background-color: rgb(100, 194, 237);
+    text-align: center;
+    max-width: 100;
+}
+
+.columnfinal{
+    column-count: 3;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
